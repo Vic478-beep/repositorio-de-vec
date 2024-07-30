@@ -1,0 +1,20 @@
+Nombre: Victor
+Apellido: Taja
+Carrera: Ing de sistemas
+
+Nombre: Victor
+Apellido: Taja
+Carrera: Ing de sistemas
+
+Nombre: Victor
+Apellido: Taja
+Carrera: Ing de sistemas
+
+Nombre: Sebastian
+Apellido: Zambrana
+Carrera: Ing de SIstemas
+
+Nombre: Sebastian
+Apellido: Zambrana
+Carrera: Ing de SIstemas
+
